@@ -50,8 +50,8 @@ The solar system is modeled as a dual-chamber resonant oscillator separated by a
 
 | Work | DOI |
 |------|-----|
-| Unified Harmonic Shells | Available at [SemanticShift.net](https://SemanticShift.net) |
-| Harmonic Orbital Mechanics | Available at [SemanticShift.net](https://SemanticShift.net) |
+| Unified Harmonic Shells | https://doi.org/10.5281/zenodo.18307184 |
+| The Harmonic Universe | https://doi.org/10.5281/zenodo.18314933 |
 
 Full framework available at [SemanticShift.net](https://SemanticShift.net)
 
@@ -62,7 +62,7 @@ Full framework available at [SemanticShift.net](https://SemanticShift.net)
 | File | Description |
 |------|-------------|
 | `README.md` | This file |
-| `Frequency_Phase_Resonance_Planetary_Distance.pdf` | Full paper with tables and replication protocol |
+| `Calculating Planetary Distance.pdf` | Full paper with tables and replication protocol |
 
 ---
 
